@@ -1,0 +1,18 @@
+{
+  "name": "t-task",
+  "version": "1.0.0",
+  "description": "cryptelligence - Test Task - RU",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladislav Sheftor",
+  "license": "Beerware",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.8",
+    "axios": "^1.7.2",
+    "nodemon": "^3.1.2"
+  }
+}
